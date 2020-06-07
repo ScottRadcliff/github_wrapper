@@ -1,6 +1,6 @@
 defmodule GithubWrapper do
   @moduledoc """
-  Documentation for GithubWrapper.
+  A wrapper around the GitHub API.
   """
 
   @doc """
